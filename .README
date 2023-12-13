@@ -1,0 +1,9 @@
+Instructions
+
+1. Open a NodeJS command line instance
+2. Run 'npm install' to add necessary packages
+3. After packages have been installed, in same command instance, run 'node server.js'
+4. Open a second command line instance and run 'node client.js'
+5. Open a third command line instance and run 'node client.js'
+
+NB: The game will automatically authenticate both clients as well as randomly select the choices for each client.
